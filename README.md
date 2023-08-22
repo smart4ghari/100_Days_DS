@@ -11,3 +11,6 @@ Day 2 : Reverse words in a given string (String)
 
 
 Day 3 : Largest Number frormed from an array
+
+
+Day 4 : Remove Duplicates from a string
